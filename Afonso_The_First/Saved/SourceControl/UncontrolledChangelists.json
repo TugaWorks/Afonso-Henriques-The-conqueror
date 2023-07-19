@@ -5,7 +5,21 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Unreal5_Afonso_The_Conqueror/Afonso-Henriques-The-conqueror/Afonso_The_First/Content/StarterContent/Audio/Collapse01.uasset"
+				"C:/Unreal5_Afonso_The_Conqueror/Afonso-Henriques-The-conqueror/Afonso_The_First/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Unreal5_Afonso_The_Conqueror/Afonso-Henriques-The-conqueror/Afonso_The_First/Content/Afonso/AfonsoIdleNoSword_Skeleton.uasset",
+				"C:/Unreal5_Afonso_The_Conqueror/Afonso-Henriques-The-conqueror/Afonso_The_First/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Unreal5_Afonso_The_Conqueror/Afonso-Henriques-The-conqueror/Afonso_The_First/Content/Afonso/Material_Textures/Paladin_diffuse.uasset",
+				"C:/Unreal5_Afonso_The_Conqueror/Afonso-Henriques-The-conqueror/Afonso_The_First/Content/Afonso/Material_Textures/Paladin_MAT.uasset",
+				"C:/Unreal5_Afonso_The_Conqueror/Afonso-Henriques-The-conqueror/Afonso_The_First/Content/Afonso/Material_Textures/Paladin_normal.uasset",
+				"C:/Unreal5_Afonso_The_Conqueror/Afonso-Henriques-The-conqueror/Afonso_The_First/Content/Afonso/Material_Textures/Paladin_specular.uasset",
+				"C:/Unreal5_Afonso_The_Conqueror/Afonso-Henriques-The-conqueror/Afonso_The_First/Content/Afonso/Animations/AfonsoIdleNoSword_Skeleton.uasset",
+				"C:/Unreal5_Afonso_The_Conqueror/Afonso-Henriques-The-conqueror/Afonso_The_First/Content/Afonso/Animations/AfonsoIdleNoSword.uasset",
+				"C:/Unreal5_Afonso_The_Conqueror/Afonso-Henriques-The-conqueror/Afonso_The_First/Content/Afonso/Animations/AfonsoIdleNoSword_Anim.uasset",
+				"C:/Unreal5_Afonso_The_Conqueror/Afonso-Henriques-The-conqueror/Afonso_The_First/Content/Afonso/Animations/AfonsoIdleNoSword_PhysicsAsset.uasset",
+				"C:/Unreal5_Afonso_The_Conqueror/Afonso-Henriques-The-conqueror/Afonso_The_First/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/MW/LEXTMQ7C4U40CDP4OZX8GH.uasset",
+				"C:/Unreal5_Afonso_The_Conqueror/Afonso-Henriques-The-conqueror/Afonso_The_First/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/91/GNN66Q5FOJWJ6J8AXAY0VS.uasset",
+				"C:/Unreal5_Afonso_The_Conqueror/Afonso-Henriques-The-conqueror/Afonso_The_First/Content/Afonso/Blueprints/Afonso_BP.uasset",
+				"C:/Unreal5_Afonso_The_Conqueror/Afonso-Henriques-The-conqueror/Afonso_The_First/Content/Afonso/Animations/Fast_Run.uasset"
 			]
 		}
 	]
