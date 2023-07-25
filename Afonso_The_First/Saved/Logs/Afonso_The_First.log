@@ -3159,3 +3159,62 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.25-21.46.42:372][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2023.07.25-21.46.42:418][  3]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
 [2023.07.25-21.46.42:418][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.25-21.47.07:551][202]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.07.25-21.47.07:568][202]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.057
+[2023.07.25-21.47.07:568][202]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Afonso/Animations/Montages/WithDrawMontage] ([1] browsable assets)...
+[2023.07.25-21.47.07:623][202]OBJ SavePackage:     Rendered thumbnail for [AnimMontage /Game/Afonso/Animations/Montages/WithDrawMontage.WithDrawMontage]
+[2023.07.25-21.47.07:623][202]OBJ SavePackage: Finished generating thumbnails for package [/Game/Afonso/Animations/Montages/WithDrawMontage]
+[2023.07.25-21.47.07:625][202]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Afonso/Animations/Montages/WithDrawMontage_Auto2
+[2023.07.25-21.47.07:625][202]LogSavePackage: Moving 'C:/Unreal5_Afonso_The_Conqueror/Afonso-Henriques-The-conqueror/Afonso_The_First/Saved/WithDrawMontage_Auto27ED1510B45F6D50C6D8EA8AB03B53E07.tmp' to 'C:/Unreal5_Afonso_The_Conqueror/Afonso-Henriques-The-conqueror/Afonso_The_First/Saved/Autosaves/Game/Afonso/Animations/Montages/WithDrawMontage_Auto2.uasset'
+[2023.07.25-21.47.07:626][202]LogFileHelpers: Auto-saving content packages took 0.058
+[2023.07.25-21.47.17:061][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.07.25-21.47.19:684][319]LogSlate: Window 'Save Content' being destroyed
+[2023.07.25-21.47.19:691][319]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.25-21.47.19:730][319]LogSavePackage: Moving output files for package: /Game/Afonso/Animations/Montages/WithDrawMontage
+[2023.07.25-21.47.19:730][319]LogSavePackage: Moving 'C:/Unreal5_Afonso_The_Conqueror/Afonso-Henriques-The-conqueror/Afonso_The_First/Saved/WithDrawMontage12EBD42441A5B8EB332D5EB359B05269.tmp' to 'C:/Unreal5_Afonso_The_Conqueror/Afonso-Henriques-The-conqueror/Afonso_The_First/Content/Afonso/Animations/Montages/WithDrawMontage.uasset'
+[2023.07.25-21.47.19:737][319]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 3.02 sec)
+[2023.07.25-21.47.19:741][319]LogStall: Shutdown...
+[2023.07.25-21.47.19:771][319]LogStall: Shutdown complete.
+[2023.07.25-21.47.19:921][319]LogSlate: Window 'Afonso_The_First - Unreal Editor' being destroyed
+[2023.07.25-21.47.20:187][319]AssetCheck: New page: Asset Save: WithDrawMontage
+[2023.07.25-21.47.20:187][319]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/Afonso/Animations/Montages/WithDrawMontage.WithDrawMontage
+[2023.07.25-21.47.20:189][319]LogAutomationController: Ignoring very large delta of 3.54 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.07.25-21.47.20:189][320]Cmd: QUIT_EDITOR
+[2023.07.25-21.47.20:189][320]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.07.25-21.47.20:248][320]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.07.25-21.47.20:248][320]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.07.25-21.47.20:266][320]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.07.25-21.47.20:315][320]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.07.25-21.47.20:315][320]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.25-21.47.20:362][320]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2023.07.25-21.47.20:657][320]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.07.25-21.47.20:716][320]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.07.25-21.47.21:754][320]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.07.25-21.47.21:754][320]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.07.25-21.47.21:754][320]LogAudio: Display: Audio Device unregistered from world 'ThirdPersonMap'.
+[2023.07.25-21.47.21:759][320]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2023.07.25-21.47.21:770][320]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.07.25-21.47.21:771][320]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.07.25-21.47.21:777][320]LogAudio: Display: Audio Device Manager Shutdown
+[2023.07.25-21.47.21:845][320]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.07.25-21.47.21:845][320]LogExit: Preparing to exit.
+[2023.07.25-21.47.22:387][320]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.07.25-21.47.22:392][320]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-21.47.22:392][320]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-21.47.22:395][320]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-21.47.22:396][320]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-21.47.22:396][320]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-21.47.22:396][320]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-21.47.22:396][320]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-21.47.22:396][320]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-21.47.22:396][320]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-21.47.22:396][320]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-21.47.22:396][320]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-21.47.22:396][320]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-21.47.22:396][320]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-21.47.22:396][320]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-21.47.22:396][320]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-21.47.22:396][320]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-21.47.22:396][320]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-21.47.22:396][320]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.07.25-21.47.22:396][320]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
