@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/senho/Documents/Afonso-Henriques-The-conqueror/Afonso_The_First/Content/Afonso/Animations/Montages/WithDrawMontage.uasset",
+				"C:/Users/senho/Documents/Afonso-Henriques-The-conqueror/Afonso_The_First/Content/Afonso/Blueprints/BP_YBOT.uasset",
+				"C:/Users/senho/Documents/Afonso-Henriques-The-conqueror/Afonso_The_First/Content/Afonso/Animations/Montages/WithDraw_Second.uasset",
+				"C:/Users/senho/Documents/Afonso-Henriques-The-conqueror/Afonso_The_First/Content/Afonso/Animations/Montages/WithdrawFirst.uasset",
+				"C:/Users/senho/Documents/Afonso-Henriques-The-conqueror/Afonso_The_First/Content/Afonso/Animations/Montages/WithDraw_Second_Montage.uasset",
 				"C:/Unreal5_Afonso_The_Conqueror/Afonso-Henriques-The-conqueror/Afonso_The_First/Content/StarterContent/Audio/Collapse01.uasset",
 				"C:/Unreal5_Afonso_The_Conqueror/Afonso-Henriques-The-conqueror/Afonso_The_First/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Unreal5_Afonso_The_Conqueror/Afonso-Henriques-The-conqueror/Afonso_The_First/Content/Afonso/Material_Textures/Paladin_diffuse.uasset",
